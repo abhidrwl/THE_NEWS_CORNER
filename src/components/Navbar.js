@@ -10,12 +10,7 @@ const Navbar = () => {
           <div className="collapse" id="navbarToggleExternalContent">
               <div className="p-4">
                   <h4 className="text">About Us</h4>
-                  <span className="text6">Let’s agree that the information age can be overwhelming. 
-                  Not only is there a lot of information in total, but it is also scattered all over the web. In order to save time, 
-                  we can bring all of the news, updates, insights, tips, guides, articles into one location ,the news corner!
-                  Browsimg is quite simple, all you have to do is search what you are looking in the search bar and if you have trouble in that, we have provided some of the 
-                  news for you.
-                  Happy Browsing!
+                  <span className="text6">Let’s agree , the information age can be overwhelming, Not only is there a lot of information in total, but it is also scattered all over the web. In order to save your precious time, we bought  all of the news, updates, insights, tips, guides, articles into one location ,THE NEWS CORNER ! Where Browsing is simple, and effortless. Search the news in the search bar and if you have trouble, we'll be more than happy to assist.                                     Enjoy your bulletins.       Happy Browsing!
                    </span>
               </div>
           </div>
